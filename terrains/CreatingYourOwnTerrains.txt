@@ -1,0 +1,21 @@
+Here's how to create your own terrain file!
+Before you begin, you'll want to look up elevation data for the area you're trying to recreate. Hold on the link where
+this data is located for attribution, either if creating one as an extension to this assignment or if you wish to
+contribute it to be included with this project.
+
+1. In a plain-text editor, make a new file. You'll want to save it to this directory.
+
+2. The first line of your file should be the string "local", without quotes, all in lower case.
+
+3. The next two lines of the file should be the number of rows and columns in the grid, respectively.
+
+4. The next line indicates how many water sources there are in the world.
+
+5. For each of those water sources, add in two more lines giving the row and column index of where that water source is.
+
+6. After that, write out the grid of Python floats representing the water heights by writing out the data one row at a
+ time, with spaces between the heights.
+
+7. Rename your file to have the extension ".terrain".
+
+Hope this helps! Looking forward to seeing what you came up with!

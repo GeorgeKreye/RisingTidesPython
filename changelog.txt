@@ -1,0 +1,8 @@
+RisingTidesPython changelog
+Current as of 13 September 2023
+
+* = Major update
++ = Minor update
+- = Patch
+
+* 1.0.0 (13 September 2023 9:22 UTC): Initial release
