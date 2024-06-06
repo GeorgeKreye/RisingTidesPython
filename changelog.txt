@@ -1,8 +1,11 @@
 RisingTidesPython changelog
-Current as of 13 September 2023
+Current as of 5 June 2024
 
 * = Major update
 + = Minor update
 - = Patch
+' = Non-code update
 
-* 1.0.0 (13 September 2023 9:22 UTC): Initial release
+' 5 June 2024 4:30 UTC: Repository made public (initial release)
+' 21 Mar 2024 17:28 UTC: Added to GitHub
+* 1.0.0 (13 September 2023 9:22 UTC): Initial version
