@@ -1,6 +1,6 @@
 <h1>Rising Tides - Python</h1>
 <b>Author(s):</b> George Kreye<br />
-<b>Version</b>: 1.0.0 (September 2023)<br />
+<b>Version</b>: 1.0.0 (September 2023 - made public June 2024)<br />
 <b>Python version:</b> 3.10<br />
 <b>Required packages (excluding dependencies):</b> dudraw 1.8.3, requests 2.31.0<br />
 <b>License:</b> <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"> CC-BY-NC-SA 4.0</a>
